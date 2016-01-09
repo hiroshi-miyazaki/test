@@ -1,4 +1,6 @@
 
+変更！
+
 type lotte-web-html_20151214.tar.gz.aa lotte-web-html_20151214.tar.gz.ab lotte-web-html_20151214.tar.gz.ac > lotte-web-html_20151214.tar.gz
 
 
