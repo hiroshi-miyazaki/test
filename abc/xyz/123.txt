@@ -1,0 +1,13 @@
+
+type lotte-web-html_20151214.tar.gz.aa lotte-web-html_20151214.tar.gz.ab lotte-web-html_20151214.tar.gz.ac > lotte-web-html_20151214.tar.gz
+
+
+
+copy /b lotte-web-html_20151214.tar.gz.* lotte_20151214.tar.gz
+
+copy lotte-web-html_20151214.tar.gz.aa /B+lotte-web-html_20151214.tar.gz.ab /B+lotte-web-html_20151214.tar.gz.ac lotte-web-html_20151214.tar.gz /B
+
+
+
+
+
